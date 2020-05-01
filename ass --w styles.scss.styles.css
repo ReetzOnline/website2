@@ -1,0 +1,204 @@
+[1mdiff --git a/Lauritta Burrows CV - Sofware Developer - May 2020.docx b/Lauritta Burrows CV - Sofware Developer - May 2020.docx[m
+[1mdeleted file mode 100644[m
+[1mindex 84efdaa..0000000[m
+[1m--- a/Lauritta Burrows CV - Sofware Developer - May 2020.docx[m	
+[1m+++ /dev/null[m
+[36m@@ -1,78 +0,0 @@[m
+[31m-                                                                        CONTACT[m
+[31m-                                                                               [m
+[31m-                                                                         EMAIL:[m
+[31m-  lauritta.burrows@outlook.com [HYPERLINK: mailto:lauritta.burrows@outlook.com][m
+[31m-                                                                               [m
+[31m-                                                                         PHONE:[m
+[31m-                                                                    07412731172[m
+[31m-                                                                               [m
+[31m-                                                                       ADDRESS:[m
+[31m-                             Flat 36, Chandos Court, The Green, London, N14 7AA[m
+[31m-                                                                               [m
+[31m-                                                                     PORTFOLIO:[m
+[31m-                                                            www.reetzonline.com[m
+[31m-                                                                               [m
+[31m-                                                                               [m
+[31m-                                                                               [m
+[31m-                                                                         SKILLS[m
+[31m-                                                                               [m
+[31m-                                                                         GitHub[m
+[31m-                                                                        Python [m
+[31m-                                                                            SQL[m
+[31m-                                                                HTML, CSS, Sass[m
+[31m-                                                                     Javascript[m
+[31m-                                                                AWS & Azure[m
+[31m-                                                                        API's[m
+[31m-                                                                         Django[m
+[31m-                                                                          Agile[m
+[31m-                                                                               [m
+[31m-                                                                               [m
+[31m-                                                                      EDUCATION[m
+[31m-                                                                               [m
+[31m-                                                      UNIVERSITY OF WEST LONDON[m
+[31m-                                                                     London, UK[m
+[31m-                                                           BSc Computer Science[m
+[31m-                                                 (Expected graduation Aug 2023)[m
+[31m-                                                                               [m
+[31m-                                                               Relevant Courses[m
+[31m-                                                      Web Programming (present)[m
+[31m-                                                           Comptia A+ (present)[m
+[31m-                                                        Cisco's Packet tracer[m
+[31m-                                                                  Cisco's IoT[m
+[31m-                                                                      NDG Linux[m
+[31m-                                                                               [m
+[31m-                                                                         Awards[m
+[31m-                                                   Most Supportive Youth Worker[m
+[31m-                                                                               [m
+[31m-CAREER OBJECTIVE[m
+[31m-[m
+[31m-A diligent computer science mature student aiming for a first degree. A highly motivated, organised and reliable individual driven by the desire to design and develop exciting new technologies. A proven team play with great communication skills, I am seen as a very personable individual who appreciates the need to celebrate the smaller successes along the way. [m
+[31m-[m
+[31m-PROFESSIONAL EXPERIENCE[m
+[31m-Deputy Manager[m
+[31m-Willoughby Place Limited, London   /   April 2017 - present[m
+[31m-[m
+[31m- Vastly improved on value added performance levels by introducing a collection of tools and software for remote delivery. All staff now have access to training and service updates.   [m
+[31m- Slashed staff rota drafting time by 75% when I designed and automated worksheets in excel. As the team grew in size, I signed up to an online service, making the rota duty more accessible for more managers.[m
+[31m- Leveraged the knowledge and skills within our team to design new forms and more efficient processes for recording and accessing data. Making for improved staff collaboration and team working.[m
+[31m- Stamped out persistent computer and networking issues by undertaking installation/update visits at both homes. [m
+[31m-[m
+[31m-Learning and Development Manager[m
+[31m-The Learning Station, London   /   Sept 2016 - Nov 2017[m
+[31m-[m
+[31m- Achieved the largest single customer contract whilst selling professional courses and promoting our online portfolio tools. This greatly enhance the company's reputation in the market for residential childcare courses.[m
+[31m- Successfully streamlined the processes linked to the funded government programmes, so we were able to double our recruitment of candidates and process them quicker.[m
+[31m-[m
+[31m-Freelance Assessor/Trainer & Project Manager[m
+[31m-Reetz Ltd., London   /   Mar 2009  -  Sept 2016[m
+[31m-[m
+[31m- Effectively project managed an SFA funded qualifications where staff/learners achieved 100% completion of their Diploma in IT & Telecommunications Level 2. Empowered them to work to higher standards at a faster pace, for cold calling child care organisations, whilst completing their qualification. Collaborated with a number of teams within Mapalim to fulfill their admin requirements through this programme.[m
+[31m- [m
+[31m-INTEREST[m
+[31m-[m
+[31m- Recently Scrum Mastered a database design project which was piloting the Agile system of software development. Made use of sprints and backlogs to progress the project to completion.  [m
+[31m- Exploring new software trends to create real life solutions, including: dynamic website, NVQ diary, social care database, micro business apps [m
+[31m-[m
+[31m-[m
+[31m-[m
+[31m-[m
+[1mdiff --git a/cv.html b/cv.html[m
+[1mindex 575710c..018f4d6 100644[m
+[1m--- a/cv.html[m
+[1m+++ b/cv.html[m
+[36m@@ -65,7 +65,7 @@[m
+           </table>[m
+         </div>[m
+         <div class="col-lg-6 col-sm-12" id="cvDown">[m
+[31m-          <a href="Lauritta Burrows CV - Sofware Developer - May 2020.docx" class="download"><h3>Download CV</h3></a>[m
+[32m+[m[32m          <a href="Document.docx" class="download"><h3>Download CV</h3></a>[m
+         </div>[m
+       </div>[m
+     </div>[m
+[1mdiff --git a/portfolio.html b/portfolio.html[m
+[1mindex e919b43..bc6d310 100644[m
+[1m--- a/portfolio.html[m
+[1m+++ b/portfolio.html[m
+[36m@@ -29,7 +29,7 @@[m
+         <div class="col-lg-3 col-sm-12">Web applications</div>[m
+         <div class="col-lg-3 col-sm-12">Website development</div>[m
+         <div class="col-lg-3 col-sm-12">APIs</div>[m
+[31m-        <div class="col-lg-3 col-sm-12">Cloud Services</div>[m
+[32m+[m[32m        <div class="col-lg-3 col-sm-12">Web server</div>[m
+       </div>[m
+     </div>[m
+   </body>[m
+[1mdiff --git a/styles.css b/styles.css[m
+[1mindex 4be8976..9c96329 100644[m
+[1m--- a/styles.css[m
+[1m+++ b/styles.css[m
+[36m@@ -5,8 +5,7 @@[m [mbody {[m
+   color: #004c4c;[m
+   margin: 10px;[m
+   /*background-color: $ltyellow;*/[m
+[31m-  font-family: arial,sans-serif;[m
+[31m-  font-size: 1.5em; }[m
+[32m+[m[32m  font-family: arial,sans-serif; }[m
+ [m
+ h1 {[m
+   color: #00cccc; }[m
+[36m@@ -59,10 +58,10 @@[m [mnav {[m
+ .lefted {[m
+   text-align: left; }[m
+ [m
+[31m-/*Descendent and multiple selectors[m
+[32m+[m[32m/*Descendent and multiple selectors*/[m
+ ul li, td {[m
+   font-size: 14px; }[m
+[31m-  */[m
+[32m+[m
+ ul {[m
+   padding-left: 13px; }[m
+   ul li {[m
+[1mdiff --git a/styles.css.map b/styles.css.map[m
+[1mindex 181634d..6f2ad80 100644[m
+[1m--- a/styles.css.map[m
+[1m+++ b/styles.css.map[m
+[36m@@ -1,6 +1,6 @@[m
+ {[m
+ "version": 3,[m
+[31m-"mappings": "AAAA,8CAA8C;AAQ9C,IAAK;EACH,gBAAgB,EAJP,OAAO;EAKhB,UAAU,EAAE,MAAM;EAClB,KAAK,EAPA,OAAO;EAQZ,MAAM,EAAE,IAAI;EACZ,gCAAgC;EAChC,WAAW,EAAE,gBAAgB;EAC7B,SAAS,EAAE,KAAK;;AAGlB,EAAG;EACD,KAAK,EAhBK,OAAO;;AAkBnB,EAAG;EACD,KAAK,EAlBA,OAAO;;AAoBd,EAAG;EACD,KAAK,EAvBI,OAAO;;AAyBlB,SAAU;EACN,KAAK,EAtBD,OAAO;;AAwBf,GAAI;EACF,KAAK,EA9BA,OAAO;;AAiCZ,oBAAoB;AACtB,GAAI;EACF,cAAc,EAAE,IAAI;EACpB,UAAU,EAAE,MAAM;;AAEpB,uCAAuC;AACrC,UAAW;EACX,OAAO,EAAE,IAAI;EACb,gBAAgB,EArCP,OAAO;;AAwClB,cAAe;EACb,OAAO,EAAE,GAAG;;AAId,mBAAoB;EAClB,MAAM,EAAE,kBAAqB;;AAG/B,GAAI;EACF,gBAAgB,EAAE,wBAAwB;EAC1C,UAAO;IACL,cAAc,EAAE,IAAI;EACtB,eAAY;IACV,WAAW,EAAE,IAAI;EACnB,cAAW;IACT,OAAO,EAAE,IAAI;IACb,YAAY,EAAE,IAAI;EACpB,kBAAe;IACb,WAAW,EAAE,IAAI;EACnB,kBAAe;IACb,cAAc,EAAE,IAAI;;AAIxB,gBAAiB;EACf,OAAO,EAAE,IAAI;;AAGf,OAAQ;EACN,UAAU,EAAE,IAAI;;AAGlB;;;IAGI;AAGJ,EAAG;EACD,YAAY,EAAE,IAAI;EAClB,KAAG;IACD,cAAc,EAAE,IAAI;;AAIxB,MAAO;EACL,gBAAgB,EAtFV,OAAO;EAuFb,WAAW,EAAE,IAAI;EACjB,SAAS,EAAE,IAAI;;AAGjB,wBAAwB;AACxB,YAAa;EACX,gBAAgB,EAlGX,OAAO;;AAqGd,yBAA0B;EACxB,SAAU;IACR,OAAO,EAAE,IAAI;AAEjB,sCAAsC;AAGtC,4DAA4D",[m
+[32m+[m[32m"mappings": "AAAA,8CAA8C;AAQ9C,IAAK;EACH,gBAAgB,EAJP,OAAO;EAKhB,UAAU,EAAE,MAAM;EAClB,KAAK,EAPA,OAAO;EAQZ,MAAM,EAAE,IAAI;EACZ,gCAAgC;EAChC,WAAW,EAAE,gBAAgB;;AAG/B,EAAG;EACD,KAAK,EAfK,OAAO;;AAiBnB,EAAG;EACD,KAAK,EAjBA,OAAO;;AAmBd,EAAG;EACD,KAAK,EAtBI,OAAO;;AAwBlB,SAAU;EACN,KAAK,EArBD,OAAO;;AAuBf,GAAI;EACF,KAAK,EA7BA,OAAO;;AAgCZ,oBAAoB;AACtB,GAAI;EACF,cAAc,EAAE,IAAI;EACpB,UAAU,EAAE,MAAM;;AAEpB,uCAAuC;AACrC,UAAW;EACX,OAAO,EAAE,IAAI;EACb,gBAAgB,EApCP,OAAO;;AAuClB,cAAe;EACb,OAAO,EAAE,GAAG;;AAId,mBAAoB;EAClB,MAAM,EAAE,kBAAqB;;AAG/B,GAAI;EACF,gBAAgB,EAAE,wBAAwB;EAC1C,UAAO;IACL,cAAc,EAAE,IAAI;EACtB,eAAY;IACV,WAAW,EAAE,IAAI;EACnB,cAAW;IACT,OAAO,EAAE,IAAI;IACb,YAAY,EAAE,IAAI;EACpB,kBAAe;IACb,WAAW,EAAE,IAAI;EACnB,kBAAe;IACb,cAAc,EAAE,IAAI;;AAIxB,gBAAiB;EACf,OAAO,EAAE,IAAI;;AAGf,OAAQ;EACN,UAAU,EAAE,IAAI;;AAGlB,qCAAqC;AACrC,SAAU;EACR,SAAS,EAAE,IAAI;;AAGjB,EAAG;EACD,YAAY,EAAE,IAAI;EAClB,KAAG;IACD,cAAc,EAAE,IAAI;;AAIxB,MAAO;EACL,gBAAgB,EApFV,OAAO;EAqFb,WAAW,EAAE,IAAI;EACjB,SAAS,EAAE,IAAI;;AAGjB,wBAAwB;AACxB,YAAa;EACX,gBAAgB,EAhGX,OAAO;;AAmGd,yBAA0B;EACxB,SAAU;IACR,OAAO,EAAE,IAAI;AAEjB,sCAAsC;AAGtC,4DAA4D",[m
+ "sources": ["styles.scss"],[m
+ "names": [],[m
+ "file": "styles.css"[m
+[1mdiff --git a/styles.scss b/styles.scss[m
+[1mindex 1252d89..1c668d5 100644[m
+[1m--- a/styles.scss[m
+[1m+++ b/styles.scss[m
+[36m@@ -12,8 +12,7 @@[m [mbody {[m
+   color: $teal;[m
+   margin: 10px;[m
+   /*background-color: $ltyellow;*/[m
+[31m-  font-family: arial,sans-serif;[m
+[31m-  font-size: 1.5em;}[m
+[32m+[m[32m  font-family: arial,sans-serif;  }[m
+ [m
+ [m
+ h1 {[m
+[36m@@ -76,10 +75,9 @@[m [mnav {[m
+   text-align: left; }[m
+ [m
+ [m
+[31m-/*Descendent and multiple selectors[m
+[32m+[m[32m/*Descendent and multiple selectors*/[m
+ ul li, td {[m
+   font-size: 14px; }[m
+[31m-  */[m
+ [m
+ [m
+ ul {[m
+[1mdiff --git a/styles.scss.styles.css b/styles.scss.styles.css[m
+[1mdeleted file mode 100644[m
+[1mindex ed3ac78..0000000[m
+[1m--- a/styles.scss.styles.css[m
+[1m+++ /dev/null[m
+[36m@@ -1,23 +0,0 @@[m
+[31m-/*[m
+[31m-Errno::ENOENT: No such file or directory @ rb_sysopen - styles.scss.styles.css[m
+[31m-[m
+[31m-Backtrace:[m
+[31m-C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/sass-3.7.4/lib/sass/plugin/compiler.rb:454:in `read'[m
+[31m-C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/sass-3.7.4/lib/sass/plugin/compiler.rb:454:in `update_stylesheet'[m
+[31m-C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/sass-3.7.4/lib/sass/plugin/compiler.rb:215:in `block in update_stylesheets'[m
+[31m-C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/sass-3.7.4/lib/sass/plugin/compiler.rb:209:in `each'[m
+[31m-C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/sass-3.7.4/lib/sass/plugin/compiler.rb:209:in `update_stylesheets'[m
+[31m-C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/sass-3.7.4/lib/sass/plugin/compiler.rb:294:in `watch'[m
+[31m-C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/sass-3.7.4/lib/sass/plugin.rb:109:in `method_missing'[m
+[31m-C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/sass-3.7.4/lib/sass/exec/sass_scss.rb:358:in `watch_or_update'[m
+[31m-C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/sass-3.7.4/lib/sass/exec/sass_scss.rb:51:in `process_result'[m
+[31m-C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/sass-3.7.4/lib/sass/exec/base.rb:50:in `parse'[m
+[31m-C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/sass-3.7.4/lib/sass/exec/base.rb:18:in `parse!'[m
+[31m-C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/sass-3.7.4/bin/sass:13:in `<top (required)>'[m
+[31m-C:/Ruby26-x64/bin/sass:23:in `load'[m
+[31m-C:/Ruby26-x64/bin/sass:23:in `<main>'[m
+[31m-*/[m
+[31m-body:before {[m
+[31m-  white-space: pre;[m
+[31m-  font-family: monospace;[m
+[31m-  content: "Errno::ENOENT: No such file or directory @ rb_sysopen - styles.scss.styles.css"; }[m
