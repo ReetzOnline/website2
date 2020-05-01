@@ -5,7 +5,8 @@ body {
   color: #004c4c;
   margin: 10px;
   /*background-color: $ltyellow;*/
-  font-family: arial,sans-serif; }
+  font-family: arial,sans-serif;
+  font-size: 1.5em; }
 
 h1 {
   color: #00cccc; }
@@ -58,10 +59,10 @@ nav {
 .lefted {
   text-align: left; }
 
-/*Descendent and multiple selectors*/
+/*Descendent and multiple selectors
 ul li, td {
   font-size: 14px; }
-
+  */
 ul {
   padding-left: 13px; }
   ul li {
